@@ -1,0 +1,10 @@
+
+Console.Write("My");
+Console.Write(" Name");
+Console.Write(" is");
+Console.WriteLine(" Mohammad");
+Console.WriteLine("Hello World!");
+Console.WriteLine(5);
+Console.WriteLine(5 + 5);
+Console.WriteLine("5+5");
+
